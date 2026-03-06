@@ -31,7 +31,34 @@ I like turning ideas into small projects and experimenting with new tools.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=highcontrast&hide_border=true&ring=79ff97&fire=ffd700&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=highcontrast&ring=00ff9c&fire=ffd700&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=00ff9c&border=00ff9c" />
+</p>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/theadiwave.in">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adityarajyadavofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=adityarajyadavofficial&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 </p>
 
 ---
