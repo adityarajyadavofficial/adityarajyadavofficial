@@ -28,17 +28,10 @@ I like turning ideas into small projects and experimenting with new tools.
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajyadavofficial&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajyadavofficial&layout=compact&theme=tokyonight)
+## 🔥 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 ---
 
