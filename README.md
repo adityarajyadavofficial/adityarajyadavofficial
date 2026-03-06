@@ -28,9 +28,10 @@ I like turning ideas into small projects and experimenting with new tools.
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=highcontrast&hide_border=true&ring=79ff97&fire=ffd700&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 ---
