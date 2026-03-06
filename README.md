@@ -19,16 +19,6 @@ I like turning ideas into small projects and experimenting with new tools.
 
 ---
 
-## 🌱 Currently Learning
-
-- C Programming  
-- C++  
-- Data Structures  
-- HTML & CSS  
-- Basics of JavaScript  
-
----
-
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,7 +30,15 @@ I like turning ideas into small projects and experimenting with new tools.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityarajyadavofficial&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adityarajyadavofficial&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajyadavofficial&layout=compact&theme=tokyonight)
 
 ---
 
